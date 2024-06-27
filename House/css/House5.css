@@ -1,0 +1,37 @@
+.blcok4 {
+padding: 60px 0 70px;
+
+}
+.block4__img{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+.block4__img img{
+   max-width: 100%;
+}
+.blcok4__team {
+   margin-left: 33px;
+}
+.blcok4__team h3{
+margin-top: 80px;
+font-size: 40px;
+font-weight: 500;
+line-height: 44px;   
+}
+.blcok4__team p{
+   margin-top: 20px;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+}
+.block4__team-text {
+   
+}
+.block4__team-circle {
+   margin-top: 20px;
+   width: 300px;
+   height: 80px;
+   display: flex;
+   justify-content: space-between;
+}

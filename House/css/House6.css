@@ -1,0 +1,68 @@
+
+.onehundredandsixty-eight {
+   padding: 23px 0;
+}
+
+.block5 {
+   display: flex;
+   justify-content: space-between;
+height: 122px;
+}
+.block5 h4{
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 23px;
+   color: #2C2D35;
+}
+.block5__logo {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.block5__contacts {
+}
+.block5__contacts p{
+   margin-top: 7px;
+font-size: 18px;
+font-weight: 500;
+line-height: 21px;
+color: #86928B;
+}
+.block5__box {
+   display: flex;
+   justify-content: space-between;
+   width: 445px;
+   margin-right:120px;
+}
+.box__info {
+}
+.block5__list {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.block5__item {
+   margin-top: 3px;
+}
+.block5__link {
+   margin-top: 300px;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+color: #86928B;
+}
+.block5__frame {
+   width: 132px;
+}
+.frame__img {
+   width: 132px;
+   display: flex;
+   justify-content: space-between;
+}
+.block5__frame p{
+   margin-top:9px;
+font-size: 12px;
+font-weight: 500;
+line-height: 14px;
+color: #86928B;
+}

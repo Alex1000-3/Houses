@@ -1,0 +1,61 @@
+.header{
+
+
+}
+.green {
+      background-color: #E1EDE6;
+      padding: 33px, 165px, 32px, 165px;
+
+}
+.hundred {
+   
+      min-height: 100px;
+}
+.headers{
+   height: 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.header__logo {
+
+}
+
+.logo__ink {
+   display: flex;
+   align-items: center;
+   justify-content: end;
+   width: 143px;
+   height: 35px;
+   font-size: 20px;
+   font-weight: 700;
+color: #598D66;
+   text-align: right;
+   background: url('../img/mini/Star\ 1.png') left no-repeat; 
+}
+
+.header__nav {
+  display: flex;
+  justify-content: end;
+  width: 470px;
+  height: 24px;
+}
+.nav {
+   
+}
+.nav__list {
+    display: flex;
+}
+.nav__item {
+   margin-right: 45px ;
+
+}
+.nav__link {
+
+font-size: 20px;
+font-weight: 500;
+color: #2C2D35;
+
+}
+.nav__basket {
+}

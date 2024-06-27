@@ -1,0 +1,53 @@
+.block1 {
+height: 620px;
+}
+.block1__flex {
+   display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.block1 img{
+   max-width: 100%;
+}
+
+.block1__text {
+   width: 540px;
+height: 331px;
+}
+.block1__text h1{
+font-size: 60px;
+font-weight: 500;
+line-height: 66px;
+margin-bottom: 20px;
+}
+.text__greedh1 {
+   color: #598D66;
+}
+.block1__text p{
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+margin-bottom: 60px;
+color: #86928B;
+}
+
+.greed__button {
+/*    
+display: inline-block;
+    min-width:226px;
+    max-width:224px; */
+    width: 225px;
+height: 65px;
+}
+.btn {
+line-height: 65px;
+font-size: 20px;
+font-weight: 500;
+text-align: center;
+display: inline-block;
+border-radius: 1px;
+border: 1px solid #598D66;
+color: #598D66;
+}
+
+
